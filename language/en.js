@@ -1,7 +1,7 @@
 export const lang = {
     //top
     topTitle:'iBG Investment Portal',
-    topInvestments : 'Investments',
+    topInvestments : 'Investment',
     topDashboard : 'Dashboard',
     topFAQ : 'FAQ',
     topStaking: 'My Portfolio',
@@ -29,7 +29,7 @@ export const lang = {
     jiuText9:'Funding End',
     jiuText10:'Staked Only',
     jiuText11:'Minimum',
-    jiuText12:'Investment Currency',
+    jiuText12:'Investment Token',
     jiuText13:'End In',
     jiuText14:'d',
     jiuText15:'h',
@@ -43,7 +43,7 @@ export const lang = {
 
     //Below1
     below:'Terms of Service',
-    belowText:'iBG LaunchPad aims to serve more users in the form of DeFi, Staking and NFT products.  The platform aims to provide users with a one-stop service, recommending various high-quality projects to investors in an easy-to-start and safe and reliable way.',
+    belowText:'iBG Investment Portal aims to serve more users in the form of DeFi, Staking and NFT products.  The platform aims to provide users with a one-stop service, recommending various high-quality projects to investors in an easy-to-start and safe and reliable way.',
     belowY:'Privacy Policy',
     //Dashboard
     Dhtitle:'Total Funds Raised',
@@ -103,8 +103,8 @@ export const lang = {
     MembershipText21:'Available Quota:',
 
     //MyStaking
-    myStaking:'My Investments',
-    myStaking1:'My Earnings',
+    myStaking:'Investments',
+    myStaking1:'Earnings',
     myStaking2:'Est. Earnings',
     myStaking3:'Project',
     myStaking4:'Investment',
@@ -164,7 +164,7 @@ export const lang = {
     PopupIBGBTC15:'The APY is adjusted daily based on the on-chain staking rewards, and the specific APY is subject to the page display on the day.',
     PopupIBGBTC16:'I have read and I agree to iBG Investment Service Agreement',
     PopupIBGBTC17:'Confirm',
-    PopupIBGBTC18:"Please Enter Rhe Amount",
+    PopupIBGBTC18:"Enter Amount",
     PopupIBGBTC19:"Funding Start",
     PopupIBGBTC20:"Funding End",
     PopupIBGBTC21:"Investment Period",
@@ -196,7 +196,7 @@ export const lang = {
     stakingTitle110:'Lv9',
     stakingTitle8:'Amount',
     stakingTitle9:'The current membership level is Lv2, 1000 has been pledged',
-    stakingTitle10:'Member Nenefits',
+    stakingTitle10:'Member Benefits',
     stakingTitle11:'Investment Quota: ',
     stakingTitle12:'Fee Discount: ',
     stakingTitle13:'Referral Rebate: ',
@@ -224,7 +224,7 @@ export const lang = {
     depTitle2:'Withdrawals',
     depTitle3:'Asset:',
     depTitle4:'Status:',
-    depTitle5:'In Process',
+    depTitle5:'Pending',
     depTitle6:'Сompleted',
     depTitle7:'On Hold',
     depTitle8:'Rejected',
@@ -232,10 +232,10 @@ export const lang = {
     depTitle10:'Time',
     depTitle11:'From',
     depTitle12:'To',
-    depTitle13:'Currency',
+    depTitle13:'Token',
     depTitle14:'Gas fee',
     depTitle15:'Amount',
-    depTitle16:'State',
+    depTitle16:'Status',
     //Access
     AccessTitle:'Deposit',
     AccessTitle1:'Withdraw',
@@ -293,7 +293,7 @@ export const lang = {
     Subscribe2:'Time',
     Subscribe3:'Operate',
     Subscribe4:'Upgrade to',
-    Subscribe5:'Amount of money',
+    Subscribe5:'Amount',
     Subscribe6:'State',
     Subscribe7:'Purchase',
     Subscribe8:'Cancel',
