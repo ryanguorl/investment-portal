@@ -38,7 +38,7 @@ export const lang = {
     jiuText19:'进行中',
     jiuText20:'募集失败',
     jiuText21:'已结束',
-    jiuText22:'实时/已完成',
+    jiuText22:'已完成',
     //Below1
     below:'服务条款',
     belowText:'iBG LaunchPad旨在以DeFi、Staking和NFT产品的形式为更多用户提供服务。 平台旨在为用户提供一站式服务，以易启动、安全可靠的方式向投资者推荐各类优质项目。  ',
@@ -49,7 +49,7 @@ export const lang = {
     Dhtitle2:'参与份额数',
     Dhtitle3:'iBG 总质押数',
     Dhtitle4:'Lp总质押数',
-    Dhtitle5:'iBG的使用',
+    Dhtitle5:'iBG会员质押总量',
     //Faq
     faqTitle:'常见问答',
     faqTitle1:'学习更多关于iBG的知识',
@@ -78,8 +78,8 @@ export const lang = {
     //Membership
     MembershipText:'质押数量:',
     MembershipText1:'取消质押',
-    MembershipText2:'订阅日志',
-    MembershipText3:'获得/升级 会员',
+    MembershipText2:'订阅记录',
+    MembershipText3:'订阅/升级',
     MembershipText4:'',
     MembershipText22:'等级',
     MembershipText5:'iBG质押数量',

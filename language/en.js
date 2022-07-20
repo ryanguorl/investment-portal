@@ -1,7 +1,7 @@
 export const lang = {
     //top
     topTitle:'iBG Investment Portal',
-    topInvestments : 'Investment',
+    topInvestments : 'Investments',
     topDashboard : 'Dashboard',
     topFAQ : 'FAQ',
     topStaking: 'My Portfolio',
@@ -39,7 +39,7 @@ export const lang = {
     jiuText19:'Ongoing',
     jiuText20:'Failed',
     jiuText21:'Ended',
-    jiuText22:'Live/Finished',
+    jiuText22:'Finished',
 
     //Below1
     below:'Terms of Service',
@@ -51,7 +51,7 @@ export const lang = {
     Dhtitle2:'Projects Launched',
     Dhtitle3:'iBG Staked',
     Dhtitle4:'Total Pool Staking',
-    Dhtitle5:'The Use of iBG',
+    Dhtitle5:'Total iBG Staking in Tiers',
     //Faq
     faqTitle:'Frequently Asked Questions',
     faqTitle1:'LEARNING MORE ABOUT iBG',
@@ -81,7 +81,7 @@ export const lang = {
     MembershipText:'Staked: ',
     MembershipText1:'Cancel Member',
     MembershipText2:'Subscription Record',
-    MembershipText3:'Subscribe/Upgrade Membership',
+    MembershipText3:'Subscribe/Upgrade',
     MembershipText4:'',
     MembershipText20:'Tier',
     MembershipText5:'iBG Required',
